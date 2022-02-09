@@ -1,0 +1,28 @@
+C:\Users\1234\source\repos\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.csprojAssemblyReference.cache
+C:\Users\1234\source\repos\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\1234\source\repos\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.exe.config
+C:\Users\1234\source\repos\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.exe
+C:\Users\1234\source\repos\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.pdb
+C:\Users\1234\source\repos\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.exe
+C:\Users\1234\source\repos\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.pdb
+C:\Users\1234\Desktop\FinalConverter\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.exe.config
+C:\Users\1234\Desktop\FinalConverter\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.exe
+C:\Users\1234\Desktop\FinalConverter\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.pdb
+C:\Users\1234\Desktop\FinalConverter\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.csprojAssemblyReference.cache
+C:\Users\1234\Desktop\FinalConverter\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\1234\Desktop\FinalConverter\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.exe
+C:\Users\1234\Desktop\FinalConverter\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.pdb
+D:\JurekDyplom\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.exe.config
+D:\JurekDyplom\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.exe
+D:\JurekDyplom\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.pdb
+D:\JurekDyplom\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.csprojAssemblyReference.cache
+D:\JurekDyplom\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.csproj.CoreCompileInputs.cache
+D:\JurekDyplom\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.exe
+D:\JurekDyplom\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.pdb
+C:\Users\jnowo\Desktop\praca dyplomowa\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.exe.config
+C:\Users\jnowo\Desktop\praca dyplomowa\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.exe
+C:\Users\jnowo\Desktop\praca dyplomowa\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\bin\Debug\SI_Projekt.pdb
+C:\Users\jnowo\Desktop\praca dyplomowa\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.csprojAssemblyReference.cache
+C:\Users\jnowo\Desktop\praca dyplomowa\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\jnowo\Desktop\praca dyplomowa\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.exe
+C:\Users\jnowo\Desktop\praca dyplomowa\ESIProjectNoworolnikStraciło\SI_Projekt\SI_Projekt\obj\Debug\SI_Projekt.pdb
